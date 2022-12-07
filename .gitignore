@@ -1,3 +1,6 @@
+## l3build temporary directory:
+build
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
